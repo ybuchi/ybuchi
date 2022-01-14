@@ -1,8 +1,6 @@
-Hi! My name is Yannik Büchi and I am a mission-driven data analyst and full-sack developper originally from Le Vaud, Switzerland, but based in Queens, New York City.
+Hi! I'm Yannik and I am a software engineer originally from Le Vaud, Switzerland based in Queens, New York. I believe the best thing about programming is that it is both an art and a science. I grew up playing piano and studying biology and literature, and so I always had one foot in the sciences and one foot in the humanities. When I discovered coding, I realized that being a software engineer allowed me to express both my creative and logical sides to design and build incredibly powerful applications.
 
-All my life, I've been driven by one goal in particular: to democratize climate and social activism by empowering people of all backgrounds to move the needle towards a more equal and sustainable society. For me, this means using my technical abilites in SQL and Python as well as my development experience using JavaScript and the MERN stack to tell compelling stories from complex data and create attractive webistes that pull in readers and compells them to action!
-
-I'm currently looking for opportunities to work for open-minded and mission-driven people or organizations looking to make the world a better place. I have 2 years of experience working as a data analyst and I have completed a Full Stack Engineering Bootcamp at Columbia University. In addition, I thrive working in diverse environments, and am fluent in French and German. In the meantime, I will continue to add to my arsenal of technical skills and add to my portfolio of personal projects. 
+Since then, I have gained experience working building applications in JavaScript, HTML, CSS using the MERN stack and have extensive work experience leveraging SQL, Python, and relational databases for data manipulation and analysis. 
 
 Feel free to contact me at yannik.buchi95@gmail.com, even if you just want to chat!
 
