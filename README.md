@@ -1,21 +1,14 @@
-Hi! 
+Hi! I'm Yannik, a mission-driven full-stack software engineer originally from Le Vaud, Switzerland and currently based in Queens, NY. I'm passionate about building applications that help people do the things that matter to them better. 
 
-I'm Yannik, a passionate, mission-driven software engineer originally from Le Vaud, Switzerland but currently based in Queens. To me, the best thing about programming is that it is both an art and a science. As someone who grew up playing a lot of piano and studying biology and literature, I've always had one foot in the sciences and one foot in the humanities. I set out on my professional career with a strong desire to acquire the skills and experience necessary to leverage technology to make the world a happier place. I've since grown my skills from self-taught knowledge of SQL, Python, and data analysis to a robust knowledge and experience of front-end and backend-technologies including JavaScript, React and Ruby-on-Rails.
+Projects I'm currently working on?
 
-I am currently looking for job opportunities in software engineering (fullstack, frontend, or backend), so if you're looking for a software engineer (remote or New York City area), please feel free to reach out to me at yannik.buchi95@gmail.com!
+Cuisto: THE app for home cooks. If you're like me and you love to cook at home, this is the place to  browse, write and store your favorite recipes. What's more? Create your own smart fridges, auto-generate your grocery shopping list, and get recommended recipes based on what ingredients you have. Check it out here: https://cuisto.herokuapp.com/ .
 
-A summary of my current experience:
+Ellis: Looking to become a U.S. citizen? Or are you American but want to see if you would pass a naturalization interview? Use Ellis, the app I created to study and quiz yourself to ace it, for fun or for real. Check it out here: https://gorgeous-empanada-210319.netlify.app/ . 
 
-- building fullstack web applications using React and Node.js (3+ years), Ruby-on-Rails (1 year) and Express (1 year)
-- advanced knowlege of SQL and working with relational databases and data warehouses (3+ years)
-- leveraging Python for data extraction, manipulation and analysis using libraries like Pandas, NumPy, SciPy and more. (1 year)
-- 3+ years of experience working in a fast-paced agile team, using product management software like JIRA to prioritize tasks and making optimal product decisions
-- 3+ years of experience working with software and data engineers in the back-end using tools and technologies like Databricks, Redshift, Apache Hive
+As a full-stack engineer, my main programming languages  and frameworks are JavaScript and React in the front-end and Ruby-on-Rails in the backend. As a former data analyst, I also bring an advanced knowledge and implementation  of SQL dialects, relational databases and data visualizations, as well as experience with Agile methodologies and workflow tools like JIRA. 
 
-In addition, I bring: 
-
-- a ton of energy, curiosity, and desire to grow as a software engineer
-- written and spoken fluency in French and English (conversational in German)
+I’m currently looking for for opportunities as a front-end, back-end, or full-stack engineer to keep growing and working on exciting and innovative products. If you're looking for a fast-learning, analytical and people-centered engineer, please feel free to reach out to me on LinkedIn or by emailing me at yannik.buchi95@gmail.com.
 
 <!---
 ybuchi/ybuchi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
