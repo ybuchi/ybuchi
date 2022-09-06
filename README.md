@@ -1,5 +1,5 @@
 
-Hi! I'm Yannik,
+Hi! I'm Yannik
 ===============
 
 A mission-driven software engineer
@@ -8,7 +8,7 @@ Originally from the mountainous country of Switzerland, I am currently based in 
 
 ### Projects I'm currently working on?
 
-**Cuisto:**
+**[Cuisto](https://cuisto.herokuapp.com/):**
 The app for home cooks. If you're like me and you're convinced that the best meals are the ones cooked at home, then this application is for you. Cuisto allows you to track your pantry and fridge ingredients from which it can automatically recommend recipes in your library and create shopping lists, saving you tons of time rummaging through your fridge trying to figure out what your next meal is.
 
 ### Open to Work
