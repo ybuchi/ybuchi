@@ -8,7 +8,7 @@ Originally from the mountainous country of Switzerland, I am currently based in 
 
 ### Projects I'm currently working on?
 **BandTo:**
-I joined an early-stage startup focusing on providing location-based networking services in September 2022 where I am currently working to build and deploy a React Native app from scratch. In addition to building the frontend, I'm working on setting up, configuring and developing our application's backend using Python's Django framework.
+I joined an early-stage startup focusing on providing location-based networking services in September 2022 where I am currently working to build and deploy a React Native app from scratch along with another developer. In addition to building the frontend, I'm working on setting up, configuring and developing our application's backend using Python's Django framework.
 
 **[Cuisto](https://cuisto.herokuapp.com/):**
 The app for home cooks. If you're like me and you're convinced that the best meals are the ones cooked at home, then this application is for you. Cuisto allows you to track your pantry and fridge ingredients from which it can automatically recommend recipes in your library and create shopping lists, saving you tons of time rummaging through your fridge trying to figure out what your next meal is.
